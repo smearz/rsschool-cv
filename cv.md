@@ -4,24 +4,23 @@
 
 ### Project manager/FEDeveloper  
 
-### Skills 
-*********   
-
+### Skills
+*********
 * SalesForce
 * Confluence
 * Agile Project Management
 * SQL (базовые запросы)
 * Canva
-* Английский — C1  
+* Английский — C1
 ### Work Experience
-********* 
-2021 – current time – Product Owner – NielsenIQ  
+*********
+2021 – current time – Product Owner – NielsenIQ
 
-2019–2021 – Subject Matter Expert – NielsenIQ  
+2019–2021 – Subject Matter Expert – NielsenIQ
 
 2018–2019 – Database Junior Specialis – Ministry of Production  
 
-Code Example  
+### Code Example  
 *********  
 ``` JS
 let admin,name;
