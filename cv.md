@@ -1,17 +1,18 @@
 ## Vladislav Arzumanyan
 *********   
-### +79164090250 – 4090250@inbox.ru - tg:@shadowarze  
+### +79164090250 – 4090250@inbox.ru - tg: @shadowarze  
 
-### Project manager/FEDeveloper  
+### Project manager / FE Developer  
 
 ### Skills
 *********
 * SalesForce
 * Confluence
 * Agile Project Management
-* SQL (базовые запросы)
+* SQL
 * Canva
-* Английский — C1
+* English — C1  
+
 ### Work Experience
 *********
 2021 – current time – Product Owner – NielsenIQ
