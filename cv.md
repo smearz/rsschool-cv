@@ -6,8 +6,9 @@
 
 ### About me  
 *********
-Some important information
-
+I am forever student, which some day wants to become independet developer.
+> "Never Give Up"  
+>John Cena
 ### Skills
 *********
 * SalesForce
