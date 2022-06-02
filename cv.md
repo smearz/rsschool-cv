@@ -19,11 +19,11 @@ Some important information
 
 ### Work Experience
 *********
-2021 – current time – Product Owner – NielsenIQ
+2021 - current time — Product Owner — NielsenIQ
 
-2019–2021 – Subject Matter Expert – NielsenIQ
+2019 - 2021 — Subject Matter Expert — NielsenIQ
 
-2018–2019 – Database Junior Specialis – Ministry of Production  
+2018 - 2019 — Database Junior Specialis — Ministry of Production  
 
 ### Code Example  
 *********  
@@ -34,3 +34,12 @@ admin = name;
 
 alert( admin ); // "John"
 ```
+### Current Web Projects  
+*********
+CV with MarkDown for RS School
+
+TBD
+
+### Education  
+*********
+2013 - 2019 — Moscow Aviation University — Master of Engeneering
