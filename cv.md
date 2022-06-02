@@ -4,6 +4,10 @@
 
 ### Project manager / FE Developer  
 
+### About me  
+*********
+Some important information
+
 ### Skills
 *********
 * SalesForce
