@@ -10,17 +10,21 @@ body{
   display:flex;
   flex-direction:column;
   align-items: center;
-  width: 70%;
+  max-width: 1440px;
   margin:0 auto;
   background-color: aliceblue;
 }
 .wrapper-header{
   width: 100%;
+  height: fit-content;
   display:flex;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
+}
+.header-info{
+  text-align: center;
 }
 nav>ul li {
   display: inline;
@@ -29,6 +33,7 @@ nav>ul li {
 }
 .wrapper-main{
   display:flex;
+  height: 500px;
   flex-direction: row;
   justify-content: space-around;
   width: 100%;
