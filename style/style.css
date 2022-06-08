@@ -9,19 +9,20 @@ body{
 .wrapper{
   display:flex;
   flex-direction:column;
-  align-items: center;
-  max-width: 1440px;
+  max-width: 1024px;
   margin:0 auto;
   background-color: aliceblue;
+  height: 100vh;
 }
 .wrapper-header{
   width: 100%;
-  height: fit-content;
+  height: 400px;
   display:flex;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
+  background-color: lightblue;
 }
 .header-info{
   text-align: center;
@@ -33,14 +34,31 @@ nav>ul li {
 }
 .wrapper-main{
   display:flex;
-  height: 500px;
+  height: 1480px;
   flex-direction: row;
   justify-content: space-around;
   width: 100%;
 }
 .wrapper-footer{
+  background-color: lightblue;
   display:flex;
   flex-direction: row;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 50px;
   width: 100%;
+}
+.wrapper-aside{
+  display:flex;
+  flex-direction:column;
+  align-content: space-around;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+.wrapper-section{
+  display:flex;
+  flex-direction:column;
+  align-content: space-around;
+  align-items: baseline;
+  justify-content: space-evenly;
 }
