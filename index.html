@@ -4,9 +4,99 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="icon" type="image/png" href="icons/circled-a.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="icons/circled-a.png" sizes="16x16" />
+    <link rel="stylesheet" href="./style/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap" rel="stylesheet"> 
+
+    <title>@smearz CV</title>
 </head>
 <body>
-    
+  <div class="wrapper">  
+    <header class="wrapper-header">
+       <div class="navigation-hidden"> 
+            <nav>
+                <ul>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#about-me">About me</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#languages">Languages</a></li>
+                    <li><a href="#code-example">Code</a></li>
+                </ul>
+            </nav>
+        </div> 
+        <img class="header-img" src="icons/cv_img-modified.png" alt="portrait" width="200"> 
+        <div class="header-info">   
+        <h1>Vladislav Arzumanyan</h1>
+        <h2>Front-End Developer</h2>
+        <img src="./icons/email-svgrepo-com.svg" alt="tg-logo" height="16" width="16"> <span>alwintrbl@gmail.com</span>
+        <img src="./icons/telegram-logo-svgrepo-com.svg" alt="mail-logo" height="16" width="16"> <span>@shadowArze</span>
+        </div>     
+    </header>
+    <main class="wrapper-main">
+        <aside class="wrapper-aside">
+            <div>
+                <h3 id="#education">Education</h3>
+                <ul>
+                    <li>Moscow Aviation University - Master Degree</li>
+                </ul>
+            </div>
+            <div>
+                <h3 id="skills">Skills</h3>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Communication skills</li>
+                </ul>
+            </div>
+            <div>
+                <h3 id="languages">Languages</h3>
+                <ul>
+                    <li>Russian - Native</li>
+                    <li>English - C1</li>
+                </ul>
+            </div>
+        </aside>
+        <section class="wrapper-section">
+            <div>
+                <h3 id="about-me">About me</h3>
+                <p>I am 26 years old kid from Romania<br>                    
+                I am trying my best to become someone in IT<br>                    
+                But most of the time i fail<br>                    
+                Maybe this school give me an opportunity to move forward
+                </p>
+            </div>
+            <div>
+                <h3 id="projects">Projects</h3>
+                <p><a href="https://smearz.github.io/rsschool-cv/cv">CV</a></p>                    
+                <p>TBD</p>                
+                <p>TBD</p>                    
+                <p>TBD</p>
+            </div>
+            <div>
+                <h3 id="code-example">Code Examples</h3>
+            
+                <pre>
+                    <code>      
+                let admin,name;
+                name = "John"
+                admin = name;
+                        
+                alert( admin ); // "John"
+                    </code>      
+                </pre>
+            </div>
+        </section>
+    </main>
+        
+    <footer class="wrapper-footer">
+        <a href="https://github.com/smearz"> <img src="./icons/GitHub-Mark-32px.png" alt="git-hub-logo" width="32"> </a>
+        <span>2022</span>
+        <a href="https://rs.school/js-stage0/"> <img src="icons/rs_school_js.svg" alt="couse-logo" width="64"> </a>
+    </footer>
+  </div>  
 </body>
 </html>
